@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Data Engineer**
+- 🔭 I’m currently working on **Data Engineering**
 
 - 🌱 I’m currently learning **Python **
 
